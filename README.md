@@ -20,8 +20,7 @@ we study how the brain detects and corrects timing errors — uncovering insight
 
 ## 🧠 Supervision & Leadership  
 
-**[Dr. Tadeusz W. Kononowicz](https://neuropsi.cnrs.fr/annuaire/tadeuz-kononowicz/)**  
-[Google Scholar](https://scholar.google.com/citations?user=HfkBE50AAAAJ&hl=en)  
+**[Dr. Tadeusz W. Kononowicz](https://scholar.google.com/citations?user=HfkBE50AAAAJ&hl=en)**  
 *Principal Investigator*  
 > Expert in cognitive neuroscience, neural timing, and error monitoring.  
 
