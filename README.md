@@ -1,5 +1,5 @@
 ## 👋 Hi, We Are the Temporal Error Monitoring (TEM) Group
-<!--
+
 **TEM-Opus2020/TEM-Opus2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 The Temporal Error Monitoring (TEM) Group investigates the neural mechanisms underlying temporal error processing across species.
@@ -109,4 +109,3 @@ Title: “Dynamics of Neuronal Processes Underlying Temporal Error Monitoring in
 
 Please follow repository-specific citation guidelines.
 When using this project’s datasets, code, or analyses, cite the corresponding authors and associated publications listed in each repository.
-<!--
