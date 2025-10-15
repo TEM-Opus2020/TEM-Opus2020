@@ -42,7 +42,7 @@ we study how the brain detects and corrects timing errors — uncovering insight
 
 **[Dr. Valérie Doyère](https://neuropsi.cnrs.fr/departements/cnn/equipe-valerie-doyere/)**  
 *NeuroPSI, Université Paris-Saclay, CNRS*  
-> Specialist in cross-species comparative neuroscience.  
+> Expert in neural networks and understanding the mechanisms underlying the formation of associative emotional memory and its updating, with a focus on the temporal component that controls expectation/anticipation behaviors and is fundamental in error detection and learning.  
 
 ---
 
